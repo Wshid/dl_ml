@@ -50,7 +50,8 @@ $$0 <= p <= 1$$
 - logistic regression에서 자세히 다루게 될 내용
 
 #### X 확장
-$$X^T = \begin{pmatrix} \longleftarrow (\vec{x}^(1))^T \longrightarrow \\ \longleftarrow(\vec{x}^(2))^T \longrightarrow\\ ... \\ \longleftarrow(\vec{x}^(N))^T \longrightarrow\end{pmatrix}
+$$
+X^T = \begin{pmatrix} \longleftarrow (\vec{x}^(1))^T \longrightarrow \\ \longleftarrow(\vec{x}^(2))^T \longrightarrow\\ ... \\ \longleftarrow(\vec{x}^(N))^T \longrightarrow\end{pmatrix}
 $$
 $$
 \vec{z}^{[1]} = X^T \vec{w}^{[1]} + b^{[1]} \\
