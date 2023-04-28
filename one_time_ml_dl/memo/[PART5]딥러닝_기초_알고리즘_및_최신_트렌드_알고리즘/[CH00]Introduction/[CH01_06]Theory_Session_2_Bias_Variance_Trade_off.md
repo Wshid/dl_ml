@@ -1,4 +1,4 @@
-## CH01_05. [Theory Session 2] Bias Variance Trade-off
+## CH01_06. [Theory Session 2] Bias Variance Trade-off
 
 ### 점 추정(point estimator)
 - 정의
